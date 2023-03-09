@@ -1,8 +1,7 @@
-# **Home assignment - Data Analytics 1 (ITLB352, MIB)**
 
 ## **Task description**
 
-Yours task is to read the datafile you are given into a pandas dataframe and follow the instructions.
+Task is to read the datafile you are given into a pandas dataframe and follow the instructions.
 
 - Read in the data into a pandas dataframe.
 - Display the usual basic information (datatypes, names, non-null values for columns) about the dataframe.
